@@ -2,7 +2,6 @@
   "name": "node-example",
   "version": "0.0.1",
   "dependencies": {
-    "json": "1.4.6",
     "eventmachine": "0.12.10",
     "juggernaut": "2.0.3"
   }
