@@ -1,1 +1,2 @@
-web: node web.js
+web: reddis-server;
+web: juggernaut -c config.yml;
