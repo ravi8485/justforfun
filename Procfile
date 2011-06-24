@@ -1,2 +1,3 @@
 web: reddis-server;
-web: node_modules/.bin/juggernaut
+web: juggernaut -g config.yml;
+web: juggernaut -c config.yml;
